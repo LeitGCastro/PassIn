@@ -8,7 +8,7 @@ A aplicação foi desenvolvida utilizando o framework Spring com linguagem prim�
 Aplicação consiste em 6 endpoint que permitem todos os requisitos listados abaixo, assim como as regras de negócio
 
 <div align="center">
-![image](https://github.com/LeitGCastro/PassIn/assets/105824200/b30f04fb-ff93-41b1-9512-cb5d12cc2bce)
+  <img src="https://github.com/LeitGCastro/PassIn/assets/105824200/b30f04fb-ff93-41b1-9512-cb5d12cc2bce">
 </div>
 
 ## Requisitos
