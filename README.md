@@ -32,5 +32,7 @@ Aplicação consiste em 6 endpoint que permitem todos os requisitos listados aba
 - O check-in no evento será realizado através de um QRCode;,
 
 ## Diagrama de Entidades Relacional
-![image](https://github.com/LeitGCastro/PassIn/assets/105824200/ecd990c3-48bb-4645-96df-c4bac3d24fa8)
+<div align="center">
+  <img src="https://github.com/LeitGCastro/PassIn/assets/105824200/ecd990c3-48bb-4645-96df-c4bac3d24fa8">
+</div>
 
